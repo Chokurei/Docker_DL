@@ -57,6 +57,6 @@ Similar with method 1
     $ docker push image_name # name need to be docker_bub_name/image_name
     
 ## Relationship diagram
-![layers](https://img.aotu.io/lizhi/docker/docker-filesystems-multilayer3.png)
+![image](https://cloud.githubusercontent.com/assets/16301109/23198271/b92a6df0-f909-11e6-98c8-31c672c408b4.png)
 
     
