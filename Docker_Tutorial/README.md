@@ -1,4 +1,8 @@
 # Some basic and useful orders of docker
+Take ubuntu as an example
 -------------------
 
-    a + b = 3
+## Get ubuntu system
+    $ sudo docker pull ubuntu
+if wanna other system, surf on docker hub
+
