@@ -20,6 +20,7 @@ If wanna other system, surf on docker hub
     RUN apt-get update && apt-get install -y \
                            zip \
                            unzip 
+   #FROM ubuntu means pull ubuntu, MAINTAINER is author's information, Run means run the orders, && means run after, \ can omit overlapped oders such as apt-get install
 ### Step 3: build a image based the Dockerfile:
-    $ sudo docker build -t test:1 .
-#docker build is aimed to build a image based on Dockerfile, -t: image's name and its Tag, '.' the file which contains Dockerfile
+    $ sudo docker build -t test:1 .  
+   #docker build is aimed to build a image based on Dockerfile, -t: image's name and its Tag, '.' the file which contains Dockerfile
