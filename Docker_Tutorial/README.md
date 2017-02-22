@@ -56,3 +56,7 @@ Similar with method 1
     $ docker tag image_old_name image_new_name
     $ docker push image_name # name need to be docker_bub_name/image_name
     
+## Relationship diagram
+![layers](https://img.aotu.io/lizhi/docker/docker-filesystems-multilayer3.png)
+
+    
