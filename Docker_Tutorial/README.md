@@ -56,7 +56,9 @@ Similar with method 1
     $ docker tag image_old_name image_new_name
     $ docker push image_name # name need to be docker_bub_name/image_name
     
-## Relationship diagram
+## Relationship diagrams
+### 1.Layers relationship
 ![image](https://cloud.githubusercontent.com/assets/16301109/23198271/b92a6df0-f909-11e6-98c8-31c672c408b4.png)
-
+### 2.Whole process
+![image2](https://cloud.githubusercontent.com/assets/16301109/23198313/071dd56a-f90a-11e6-8b23-dbfc459f54b0.png)
     
