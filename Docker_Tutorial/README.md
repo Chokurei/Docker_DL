@@ -1,8 +1,7 @@
-# Some basic and useful orders of docker
+# Some basic and useful orders of docker  
 Take ubuntu as an example
 -------------------
-
-## Get ubuntu system
+## Get ubuntu system  
     $ sudo docker pull ubuntu
-if wanna other system, surf on docker hub
+If wanna other system, surf on docker hub
 
