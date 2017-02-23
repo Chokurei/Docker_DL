@@ -56,6 +56,8 @@ Similar with method 1
     $ docker login 
     $ docker tag image_old_name image_new_name
     $ docker push image_name # name need to be docker_bub_name/image_name
+    $ docker rmi image_name
+    $ docker rm contrainer_name
     
 ## Relationship diagrams
 ### 1.Layers relationship
